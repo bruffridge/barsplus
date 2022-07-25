@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/barplus/static/js/main.edb2a617.js",
-    "index.html": "/barplus/index.html",
-    "main.edb2a617.js.map": "/barplus/static/js/main.edb2a617.js.map"
+    "main.js": "/barsplus/static/js/main.edb2a617.js",
+    "index.html": "/barsplus/index.html",
+    "main.edb2a617.js.map": "/barsplus/static/js/main.edb2a617.js.map"
   },
   "entrypoints": [
     "static/js/main.edb2a617.js"
