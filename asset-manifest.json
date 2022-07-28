@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/barsplus/static/js/main.c34e71fd.js",
+    "main.js": "/barsplus/static/js/main.db139d0d.js",
     "index.html": "/barsplus/index.html",
-    "main.c34e71fd.js.map": "/barsplus/static/js/main.c34e71fd.js.map"
+    "main.db139d0d.js.map": "/barsplus/static/js/main.db139d0d.js.map"
   },
   "entrypoints": [
-    "static/js/main.c34e71fd.js"
+    "static/js/main.db139d0d.js"
   ]
 }
